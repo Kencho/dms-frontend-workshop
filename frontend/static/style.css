@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nav {
+    background-color: black;
+    color: white;
+}
+
+#nav ul {
+    padding-inline-start: 0;
+}
+
+#nav li {
+    display: inline-block;
+    margin: 0.5em;
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer {
+    font-size: small;
+}
